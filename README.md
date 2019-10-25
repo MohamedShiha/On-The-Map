@@ -10,7 +10,7 @@ The On The Map app allows users to share their location and a URL with their fel
 ## How to Run
 
 * [Clone](https://github.com/MohamedShiha/On-The-Map.git) or [Download](https://github.com/MohamedShiha/On-The-Map/archive/master.zip) this repository.
-* Open the project folder in xcode.
+* Open the project folder in xcode using the `xcworkspace` file.
 * Run the project using the `play` button on top left corner of Xcode
 
 ## Authors
